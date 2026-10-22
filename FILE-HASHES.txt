@@ -1,0 +1,65 @@
+# Verified SHA-256 checksums for the supplied ZIP archives and their contents.
+# ZIP archive hashes were recalculated on 2026-10-22; inner file entries matched the supplied manifest.
+# Note: the ZIP archive bytes differ from the previously reported archive SHA-256 entries.
+
+framework: net10.0-windows
+zip:dnSpyEx-Korean net10.0 windows
+sha256: f2f2fbd5144db063bb9981810156277f3e2fbc641aa9bb084dd41f190d75c86d
+dll_count: 17
+translator: 꿈을꾸는 파랑새(Sakai)
+status: 사용자 환경 정상 실행 확인(프레임워크 미구분), 전체 기능 미검증
+files:
+  bin/dnSpy.AsmEditor.x.dll: 84918f575eb355b6817c708519506f39031a16af38b94f6327e0de6f6871cae1
+  bin/dnSpy.Debugger.DotNet.CorDebug.x.dll: 5447ad46b443f3ff0c517866303d8a1fbcecc37fc86d1faf2d3c4e25116ae26d
+  bin/dnSpy.Debugger.DotNet.Mono.x.dll: 908c008fe0062539255149fee811409f352f90dc0c30387cea03db0a2b281652
+  bin/dnSpy.Debugger.DotNet.x.dll: 6a816e8e5a84d929035d30d8decab1fb1eebd08e7d3e37fcc2fe07c487695846
+  bin/dnSpy.Debugger.x.dll: f84711d8d7c984925aa721426448d0d7a9acf46d66df5a9481476cb607981afc
+  bin/dnSpy.dll: c730eafda36f559287be78e8c3bc06108dab3899a5a3535f7b4d43bf85f2c42e
+  bin/ko-KR/dnSpy.Analyzer.x.resources.dll: 760960b9ea0f87e773e237790c3ca67e6a8bf250d8d58d25aed91857b9ab8dc2
+  bin/ko-KR/dnSpy.AsmEditor.x.resources.dll: 7353d9e05f776f69e49efd601e495f643ebba4d86f33d3652eaf5c3da8cb6b2b
+  bin/ko-KR/dnSpy.BamlDecompiler.x.resources.dll: d765f99df9880f1446f392560bdf6c76f64e4f8bbd0bd5924c09386d6d06dc6b
+  bin/ko-KR/dnSpy.Console.resources.dll: 09b4f8ee181ffa7f2be49877539cc83cfea342a05d21a206f24282d79f786a92
+  bin/ko-KR/dnSpy.Contracts.DnSpy.resources.dll: 6cb5bff2299970ce7f603f26a99e35d58361ab51312da24a4ad0110163adb864
+  bin/ko-KR/dnSpy.Contracts.Logic.resources.dll: 612f795ef63246519f766f2d88312a3492f145c381914b98ef03a63f1832acad
+  bin/ko-KR/dnSpy.Debugger.DotNet.CorDebug.x.resources.dll: f5aa239544362ea812c23cd4c4f314ec050c965ebb10f4f66c986abb54b635d0
+  bin/ko-KR/dnSpy.Debugger.DotNet.Mono.x.resources.dll: b270de1a90f8b92e0f015755b044603c77e9bc4bd281a8990c1d8d45d365f1ea
+  bin/ko-KR/dnSpy.Debugger.DotNet.x.resources.dll: cc4e60fec7e45ad81233e907d29359fc0be018fbd3606b78407e23cd11f9337f
+  bin/ko-KR/dnSpy.Debugger.x.resources.dll: cddf6303e0440eff7ade7e59c1744acdf9226fad6fb5835b1c2b2b30665bb3fd
+  bin/ko-KR/dnSpy.Decompiler.ILSpy.Core.resources.dll: 0817a739dd62a0edf2f5d28c488dbb96bb9bdf8200d227676c44562836540364
+  bin/ko-KR/dnSpy.Decompiler.ILSpy.x.resources.dll: 9c65fc90364a417b045e9ab666a2b694aaa235af9fc81ff9baffb1b18662306f
+  bin/ko-KR/dnSpy.Decompiler.resources.dll: 4d1b8ffdb9e9df0bce93d8adb374b652deecb96562edc59f21043884ee26648f
+  bin/ko-KR/dnSpy.Roslyn.resources.dll: 32fa8c0de892ce3cc1c51981cdd582f643c9e8781ad8dc2c4463887f53ceb955
+  bin/ko-KR/dnSpy.Scripting.Roslyn.x.resources.dll: 46cf15a45229833ccf532991a3c5d167e77d1f2188f66e9a10a340d79b8723a0
+  bin/ko-KR/dnSpy.StringSearcher.x.resources.dll: 6aa4c99faf40fd5ff90adf5893a21d67cdfa803d31f1963258057c2b229f8405
+  bin/ko-KR/dnSpy.resources.dll: 464aec374f48ed6e5e51ea1724dd0dd6eb534163169569559ea8fdf77a0a16ac
+
+framework: net48
+zip:dnSpyEx-Korean net48
+sha256: bf89060a61f0c9e733abbce868800cdcfd0947d7b641120e4b35209fee7a8ebb
+dll_count: 17
+translator: 꿈을꾸는 파랑새(Sakai)
+status: 사용자 환경 정상 실행 확인(프레임워크 미구분), 전체 기능 미검증
+files:
+  bin/dnSpy.AsmEditor.x.dll: f61de2a6eff9500c93ec1f6134b2ca8814ac991b1c0b36e443da9d1cb649cc62
+  bin/dnSpy.Debugger.DotNet.CorDebug.x.dll: 19003634609591c4d84f3258507f01d14cd4e085eee46f303da933c700c26e1c
+  bin/dnSpy.Debugger.DotNet.Mono.x.dll: 3ff1419f802be1c88d73f306c818896392fb2ecdacf7196dc3b1427b344d8cf2
+  bin/dnSpy.Debugger.DotNet.x.dll: cc9a2a1c87aee30fc87f1e075b61e808f279038f3200d287b32ff5e8dde77206
+  bin/dnSpy.Debugger.x.dll: c625b132279694020e8af681f36e5465169a66ea10b4204ce6b773535b4c49fe
+  bin/ko-KR/dnSpy.Analyzer.x.resources.dll: 38a2c7eaf279d5bb36315b2caeadfcb266e1045bc91bd9d03262cba6fc5dd69c
+  bin/ko-KR/dnSpy.AsmEditor.x.resources.dll: 9fdc4b66a984b4640cbaa63bf994da1c34560fc4720da64d585b4917db18ee8a
+  bin/ko-KR/dnSpy.BamlDecompiler.x.resources.dll: 32e9302eb888c163bff9391134b552d40404de8b0cc6d455058786533c2512f8
+  bin/ko-KR/dnSpy.Console.resources.dll: 5f40d7bc1dfdafe509dd078edc107eb73139edcf9fb922e74fbcf10f3e7026cf
+  bin/ko-KR/dnSpy.Contracts.DnSpy.resources.dll: 92a530431a910868d4b987c87c2b7e97bb9a59505131364f79f80d255cc09202
+  bin/ko-KR/dnSpy.Contracts.Logic.resources.dll: b1df8e998f890dd0479ce599e6952a10ec70ac1aceea2c3e3424ef3d3bbb9aa4
+  bin/ko-KR/dnSpy.Debugger.DotNet.CorDebug.x.resources.dll: c2391caca9f3d3bd3fad4c176f8a1f6f1c212b157ca5b3b4a50a659009477649
+  bin/ko-KR/dnSpy.Debugger.DotNet.Mono.x.resources.dll: 869b330b19f369653cd4eaf5bc65dba7ae3a11633d72413dea4fdc279414f57c
+  bin/ko-KR/dnSpy.Debugger.DotNet.x.resources.dll: 4820076c334da180055e40d19241d57599482e939a72d33de72724ec3a49d24c
+  bin/ko-KR/dnSpy.Debugger.x.resources.dll: cd4852bb1a480b8a77ddd990ede0e549c61c9794f6a024cb8412c847a8dfd73e
+  bin/ko-KR/dnSpy.Decompiler.ILSpy.Core.resources.dll: ffbf13e6e81b53f3c4b60889fbd5e717462ca5bda4e9856dca01b51623408d3b
+  bin/ko-KR/dnSpy.Decompiler.ILSpy.x.resources.dll: 94fc5cd3839d49d5bca55a61a960d9e9e345097c62abf2b9b7c0e4aefb971912
+  bin/ko-KR/dnSpy.Decompiler.resources.dll: 4a8cac4a9dd590c911057a76b507375e06e0403a19c5f718090d3f18591afe0b
+  bin/ko-KR/dnSpy.Roslyn.resources.dll: d59cfaef5835390341d765753f95a597d40a674318cd1ac8c515cbb53fa880b0
+  bin/ko-KR/dnSpy.Scripting.Roslyn.x.resources.dll: 771db15d1c8564d0608ee28d4b4a78ce13d47a06de01009c0621bbf076e302d0
+  bin/ko-KR/dnSpy.StringSearcher.x.resources.dll: 731c950883704f6d34e462653b6db846499203904095a80b9387715a0c77aafc
+  bin/ko-KR/dnSpy.resources.dll: 8a4dcd7261158951dd40b309d1f472613a8f0d9327fe4049047f6b3cfd1893df
+  dnSpy.exe: bd9235f44f5f3855b912dc61150298d252b21304e4bf9d637e1edef111ad39c5
