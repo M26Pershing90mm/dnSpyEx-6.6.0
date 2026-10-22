@@ -44,6 +44,32 @@ Get-FileHash -Algorithm SHA256 '.\dnSpyEx-Korean net48.zip'
 
 ### 연구 및 번역 활동 후원
 
+### 💖 Sponsor this project | 프로젝트 후원
+
+이 비공식 한국어화 작업과 독립 보안 연구가 도움이 되셨다면 자발적으로 후원하실 수 있습니다. 번역 파일과 분석 자료는 후원 여부에 관계없이 공개됩니다.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>☕ Ko-fi · 온라인 후원</strong><br><br>
+      <a href="https://ko-fi.com/sakai38666">
+        <img src="https://img.shields.io/badge/Sponsor_on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support this unofficial localization on Ko-fi">
+      </a><br><br>
+      <a href="https://ko-fi.com/sakai38666">Ko-fi 후원 페이지 열기 / Support on Ko-fi</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>🇰🇷 카카오페이 · KakaoPay QR</strong><br><br>
+      <img src="https://raw.githubusercontent.com/M26Pershing90mm/M26Pershing90mm/main/kakaopay-qr.png" width="205" alt="카카오페이 후원 QR 코드 / KakaoPay donation QR code"><br><br>
+      <sub>카카오톡 또는 카카오페이 앱으로 QR을 스캔하세요.<br>Scan with KakaoTalk or KakaoPay.</sub>
+    </td>
+  </tr>
+</table>
+
+> Ko-fi 버튼은 **Ko-fi 후원 페이지**로 이동하며, 카카오페이 QR은 **카카오페이 앱에서 스캔하는 별도의 후원 수단**입니다. 이 프로젝트는 dnSpyEx 공식 개발팀과 무관한 비공식 한국어화 프로젝트입니다.
+
+- [후원 안내 / Support information](https://wezard4u.tistory.com/6259)
+- [번역자 프로필 / Translator's profile](https://github.com/M26Pershing90mm)
+
 보안 분석·독립 연구·오픈소스 한국어 현지화 작업에 대한 후원은 **전적으로 자발적**입니다. 후원 없이도 자료를 읽고 공유하는 것만으로 도움이 됩니다.
 
 - [후원 안내 (한국어) — 꿈을꾸는 파랑새](https://wezard4u.tistory.com/6259)
