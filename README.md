@@ -78,6 +78,15 @@ Get-FileHash -Algorithm SHA256 '.\dnSpyEx-Korean net48.zip'
 - [Ko-fi — sakai38666](https://ko-fi.com/sakai38666)
 - [GitHub 프로필 — M26Pershing90mm](https://github.com/M26Pershing90mm)
 
+### 라이선스
+
+이 저장소는 **dnSpyEx 6.6.0 비공식 한국어화 프로젝트**이며, dnSpyEx 공식 개발팀에서 제작하거나 승인한 공식 번역본이 아닙니다.
+
+- **dnSpyEx 원본 프로그램과 타사 구성요소**의 저작권은 각각의 원저작권자에게 있으며, 해당 구성요소에 적용되는 원래 라이선스를 따릅니다.
+- 이 저장소의 [LICENSE](LICENSE) 파일에는 **GNU General Public License 버전 3(GPL-3.0)** 전문이 수록되어 있습니다. 구성요소마다 적용 조건이 다를 수 있으므로, 배포·수정·재사용 시 각 원본 프로젝트의 라이선스와 고지 사항을 함께 확인해야 합니다.
+- **한국어 번역 및 현지화 기여자:** 꿈을꾸는 파랑새(Sakai). 이 표기는 원본 소프트웨어에 대한 소유권이나 공식 개발팀과의 관계를 의미하지 않습니다.
+- 파일을 재배포하거나 수정할 경우 해당 원본 라이선스에서 요구하는 저작권 표시, 라이선스 고지, 소스 코드 제공 등의 의무가 적용될 수 있습니다.
+
 ---
 
 ## 🇺🇸 English
@@ -93,18 +102,8 @@ If this volunteer localization or the security research is useful, support is op
 - [Support information](https://wezard4u.tistory.com/6259)
 - [Ko-fi](https://ko-fi.com/sakai38666)
 
-## Licensing / 라이선스
 
-### 🇰🇷 한국어
-
-이 저장소는 **dnSpyEx 6.6.0 비공식 한국어화 프로젝트**이며, dnSpyEx 공식 개발팀에서 제작하거나 승인한 공식 번역본이 아닙니다.
-
-- **dnSpyEx 원본 프로그램과 타사 구성요소**의 저작권은 각각의 원저작권자에게 있으며, 해당 구성요소에 적용되는 원래 라이선스를 따릅니다.
-- 이 저장소의 [LICENSE](LICENSE) 파일에는 **GNU General Public License 버전 3(GPL-3.0)** 전문이 수록되어 있습니다. 구성요소마다 적용 조건이 다를 수 있으므로, 배포·수정·재사용 시 각 원본 프로젝트의 라이선스와 고지 사항을 함께 확인해야 합니다.
-- **한국어 번역 및 현지화 기여자:** 꿈을꾸는 파랑새(Sakai). 이 표기는 원본 소프트웨어에 대한 소유권이나 공식 개발팀과의 관계를 의미하지 않습니다.
-- 파일을 재배포하거나 수정할 경우 해당 원본 라이선스에서 요구하는 저작권 표시, 라이선스 고지, 소스 코드 제공 등의 의무가 적용될 수 있습니다.
-
-### 🇺🇸 English
+### Licensing
 
 This repository provides an **unofficial Korean localization for dnSpyEx 6.6.0**. It is not an official translation produced or endorsed by the dnSpyEx development team.
 
