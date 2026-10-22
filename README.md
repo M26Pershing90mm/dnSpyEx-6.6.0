@@ -75,7 +75,7 @@ Get-FileHash -Algorithm SHA256 '.\dnSpyEx-Korean net48.zip'
 보안 분석·독립 연구·오픈소스 한국어 현지화 작업에 대한 후원은 **전적으로 자발적**입니다. 후원 없이도 자료를 읽고 공유하는 것만으로 도움이 됩니다.
 
 - [후원 안내 (한국어) — 꿈을꾸는 파랑새](https://wezard4u.tistory.com/6259)
-- [Ko-fi — sakai38666](https://ko-fi.com/sakai38666)
+- [Ko-fi](https://ko-fi.com/sakai38666)
 - [GitHub 프로필 — M26Pershing90mm](https://github.com/M26Pershing90mm)
 
 ### 라이선스
