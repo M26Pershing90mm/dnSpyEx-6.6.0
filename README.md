@@ -95,4 +95,20 @@ If this volunteer localization or the security research is useful, support is op
 
 ## Licensing / 라이선스
 
-dnSpyEx and other third-party components retain their original copyrights and applicable licenses. See the [LICENSE](LICENSE) file for the license text included with this repository. Attribution for the Korean localization is **꿈을꾸는 파랑새 (Sakai)**. Redistribution and modifications must comply with the relevant upstream licenses.
+### 🇰🇷 한국어
+
+이 저장소는 **dnSpyEx 6.6.0 비공식 한국어화 프로젝트**이며, dnSpyEx 공식 개발팀에서 제작하거나 승인한 공식 번역본이 아닙니다.
+
+- **dnSpyEx 원본 프로그램과 타사 구성요소**의 저작권은 각각의 원저작권자에게 있으며, 해당 구성요소에 적용되는 원래 라이선스를 따릅니다.
+- 이 저장소의 [LICENSE](LICENSE) 파일에는 **GNU General Public License 버전 3(GPL-3.0)** 전문이 수록되어 있습니다. 구성요소마다 적용 조건이 다를 수 있으므로, 배포·수정·재사용 시 각 원본 프로젝트의 라이선스와 고지 사항을 함께 확인해야 합니다.
+- **한국어 번역 및 현지화 기여자:** 꿈을꾸는 파랑새(Sakai). 이 표기는 원본 소프트웨어에 대한 소유권이나 공식 개발팀과의 관계를 의미하지 않습니다.
+- 파일을 재배포하거나 수정할 경우 해당 원본 라이선스에서 요구하는 저작권 표시, 라이선스 고지, 소스 코드 제공 등의 의무가 적용될 수 있습니다.
+
+### 🇺🇸 English
+
+This repository provides an **unofficial Korean localization for dnSpyEx 6.6.0**. It is not an official translation produced or endorsed by the dnSpyEx development team.
+
+- **dnSpyEx and third-party components** remain the property of their respective copyright holders and are governed by their applicable original licenses.
+- The [LICENSE](LICENSE) file included in this repository contains the text of the **GNU General Public License version 3 (GPL-3.0)**. Different components may have different licensing terms; check the relevant upstream licenses and notices before redistributing, modifying, or reusing any files.
+- **Korean translation and localization contributor:** 꿈을꾸는 파랑새 (Sakai). This credit does not imply ownership of the original software or an official affiliation with its developers.
+- Redistribution or modification may require retaining copyright notices, including license information, and providing source code, as specified by the applicable upstream licenses.
