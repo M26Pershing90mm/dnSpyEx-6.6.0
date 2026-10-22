@@ -52,6 +52,9 @@ Get-FileHash -Algorithm SHA256 '.\dnSpyEx-Korean net48.zip'
     <td align="center" width="50%">
       <strong>☕ Ko-fi · 온라인 후원</strong><br><br>
       <a href="https://ko-fi.com/sakai38666">
+        <img src="https://raw.githubusercontent.com/M26Pershing90mm/M26Pershing90mm/main/%EB%B0%A4%EC%9D%98%20%EC%9C%84%ED%98%91%20%EB%B6%84%EC%84%9D%EC%8B%A4.png" width="320" alt="밤의 위협 분석실 — 독립 보안 연구 및 한국어 현지화 후원 이미지">
+      </a><br><br>
+      <a href="https://ko-fi.com/sakai38666">
         <img src="https://img.shields.io/badge/Sponsor_on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support this unofficial localization on Ko-fi">
       </a><br><br>
       <a href="https://ko-fi.com/sakai38666">Ko-fi 후원 페이지 열기 / Support on Ko-fi</a>
