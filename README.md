@@ -40,8 +40,7 @@ Get-FileHash -Algorithm SHA256 '.\dnSpyEx-Korean net10.0 windows.zip'
 Get-FileHash -Algorithm SHA256 '.\dnSpyEx-Korean net48.zip'
 ```
 
-실행 확인은 전체 기능 테스트나 보안 검증 완료를 의미하지 않습니다. 번역 오류, 대화상자 잘림, 특정 기능의 호환성 문제 등은 재현 환경과 함께 [Issues](https://github.com/M26Pershing90mm/dnSpyEx-6.6.0/issues)에 제보해 주세요.
-
+실행 확인은 전체 기능 테스트나 보안 검증 완료를 의미하지 않습니다.
 ### 연구 및 번역 활동 후원
 
 ### 💖 Sponsor this project | 프로젝트 후원
