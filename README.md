@@ -97,11 +97,22 @@ Two different build targets are provided: **.NET 10 / Windows** and **.NET Frame
 
 The archive names, sizes, and SHA-256 values are listed in the table above. File-level hashes are documented in [FILE-HASHES.txt](FILE-HASHES.txt). Successful launch in one user environment does **not** constitute complete compatibility, functional, security, or user-interface certification.
 
-If this volunteer localization or the security research is useful, support is optional:
+### ☕ Support This Project — Ko-fi
 
-- [Support information](https://wezard4u.tistory.com/6259)
-- [Ko-fi](https://ko-fi.com/sakai38666)
+If this **unofficial Korean localization** or my independent cybersecurity research has been useful to you, you can support my work through **Ko-fi**. Your support helps with research tools, analysis infrastructure, and ongoing open-source localization. Donations are completely voluntary; the localization and public research materials remain available regardless of support.
 
+<p align="center">
+  <a href="https://ko-fi.com/sakai38666">
+    <img src="https://raw.githubusercontent.com/M26Pershing90mm/M26Pershing90mm/main/%EB%B0%A4%EC%9D%98%20%EC%9C%84%ED%98%91%20%EB%B6%84%EC%84%9D%EC%8B%A4.png" width="480" alt="Support Sakai's independent security research and unofficial dnSpyEx Korean localization">
+  </a>
+</p>
+<p align="center">
+  <a href="https://ko-fi.com/sakai38666">
+    <img src="https://img.shields.io/badge/Support_on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi">
+  </a>
+</p>
+
+**Ko-fi:** [https://ko-fi.com/sakai38666](https://ko-fi.com/sakai38666)
 
 ### Licensing
 
